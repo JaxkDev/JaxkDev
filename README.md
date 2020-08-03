@@ -1,5 +1,5 @@
 # JaxkDev
-Backend Developer currently working on [poggit](https://github.com/JaxkDev/Poggit) and other private projects. [follow @JaxkDev](https://twitter.com/simonw) on twitter for important updates.
+Backend Developer currently working on [poggit](https://github.com/JaxkDev/Poggit) and other private projects. [follow @JaxkDev](https://twitter.com/jaxkdev) on twitter for important updates.
 
 <table><tr><td valign="top" width="33%">
 
@@ -41,4 +41,4 @@ Last updated at `03-Aug-2020 (17:34:03) UTC+00`
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
 
-*Thanks to Simon Willison for the profile templates*
+*Thanks to Simon Willison for the original profile repo, https://github.com/simonw/simonw*
