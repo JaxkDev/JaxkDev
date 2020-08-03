@@ -19,13 +19,13 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [JaxkDev](https://github.com/JaxkDev/JaxkDev) - 2020-08-03T17:25:55Z
+* [JaxkDev](https://github.com/JaxkDev/JaxkDev) - 2020-08-03T17:31:11Z
+* [poggit-rewrite](https://github.com/JaxkDev/poggit-rewrite) - 2020-08-03T17:28:22Z
+* [HTB-Data](https://github.com/JaxkDev/HTB-Data) - 2020-08-03T17:27:13Z
 * [JukeBox-pmmp](https://github.com/JaxkDev/JukeBox-pmmp) - 2020-08-02T12:42:15Z
 * [PocketMine-MP](https://github.com/JaxkDev/PocketMine-MP) - 2020-08-01T14:27:20Z
-* [poggit-laravel](https://github.com/JaxkDev/poggit-laravel) - 2020-07-21T20:47:46Z
 * [Forex-Virtual-Trading](https://github.com/JaxkDev/Forex-Virtual-Trading) - 2020-07-20T17:34:46Z
 * [Vehicles](https://github.com/JaxkDev/Vehicles) - 2020-07-09T09:37:46Z
-* [me-spam](https://github.com/JaxkDev/me-spam) - 2020-06-30T11:17:56Z
 * [koth](https://github.com/JaxkDev/koth) - 2020-06-28T16:57:08Z
 <!-- recent_updates ends -->
 More [new projects](https://github.com/JaxkDev?tab=repositories)
@@ -36,7 +36,7 @@ More [new projects](https://github.com/JaxkDev?tab=repositories)
 </td></tr></table>
 
 <!-- updated_at starts -->
-Not Updated.
+Last updated at `03-Aug-2020 (17:31:36)`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
