@@ -74,7 +74,7 @@ def make_update_query(amount=5):
 def fetch_updates(oauth_token):
     repos = []
     data = client.execute(
-        query=make_update_query(),
+        query=make_update_query(8),
         headers={"Authorization": "Bearer {}".format(oauth_token)},
     )
     print("updates:")
