@@ -78,7 +78,7 @@ def fetch_updates(oauth_token):
         headers={"Authorization": "Bearer {}".format(oauth_token)},
     )
     print("updates:")
-    print(json.dumps(data, indent=4)
+    print(json.dumps(data, indent=4))
     print()
     return data["data"]["viewer"]["repositories"]["nodes"]
 
