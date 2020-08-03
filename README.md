@@ -21,6 +21,10 @@ More [new projects](https://github.com/JaxkDev?tab=repositories)
 * No Notices.
 </td></tr></table>
 
+<!-- updated_at start -->
+Not Updated.
+<!-- updated_at ends -->
+
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
 
 *Thanks to Simon Willison for the profile templates*
