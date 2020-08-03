@@ -1,16 +1,24 @@
-### Hi there 👋
+# JaxkDev
+Backend Developer currently working on [poggit](https://github.com/JaxkDev/Poggit) and other private projects. [follow @JaxkDev](https://twitter.com/simonw) on twitter for important updates.
 
-<!--
-**JaxkDev/JaxkDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table><tr><td valign="top" width="33%">
 
-Here are some ideas to get you started:
+### Recent releases
+<!-- recent_releases starts -->
+* Generating...
+<!-- recent_releases ends -->
+More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.md)
+</td><td valign="top" width="35%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recently updated
+<!-- recent_updates starts -->
+* Generating...
+<!-- recent_updates ends -->
+More [new projects](https://github.com/JaxkDev?tab=repositories)
+</td><td valign="top" width="33%">
+
+### Notices
+* No Notices.
+</td></tr></table>
+
+*Thanks to Simon Willison for the profile templates*
