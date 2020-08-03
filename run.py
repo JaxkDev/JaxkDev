@@ -122,14 +122,6 @@ def fetch_releases(oauth_token):
         after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
     return releases
 
-
-def fetch_updates():
-    sql = "select title, url, created_utc from til order by created_utc desc limit 5"
-    return httpx.get(
-        "https://til.simonwillison.net/til.json",
-        params={"sql": sql, "_shape": "array",},
-    ).json()
-
 if __name__ == "__main__":
     readme = root / "README.md"
     project_releases = root / "releases.md"
