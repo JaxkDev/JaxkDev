@@ -35,7 +35,7 @@ More [new projects](https://github.com/JaxkDev?tab=repositories)
 * No Notices.
 </td></tr></table>
 
-<!-- updated_at start -->
+<!-- updated_at starts -->
 Not Updated.
 <!-- updated_at ends -->
 
