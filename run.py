@@ -68,7 +68,7 @@ def make_update_query(amount=5):
   }
 }
 """.replace(
-        "FIRST", '"{}"'.format(amount)
+        "FIRST", '{}'.format(amount)
     )
     
 def fetch_updates(oauth_token):
