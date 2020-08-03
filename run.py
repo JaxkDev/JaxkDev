@@ -170,6 +170,6 @@ if __name__ == "__main__":
 
     dateTimeObj = datetime.now()
     timestamp = dateTimeObj.strftime("%d-%b-%Y (%H:%M:%S)")
-    rewritten = replace_chunk(rewritten, "updated_at", "Last updated at `"+timestamp+"`")
+    rewritten = replace_chunk(rewritten, "updated_at", "Last updated at `"+timestamp+" UTC+00`")
 
     readme.open("w").write(rewritten)
