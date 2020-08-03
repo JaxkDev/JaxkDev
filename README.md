@@ -19,11 +19,14 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [JaxkDev](https://github.com/JaxkDev/JaxkDev) - 2020-08-03T17:23:31Z
-* [simonw](https://github.com/JaxkDev/simonw) - 2020-08-03T17:14:14Z
+* [JaxkDev](https://github.com/JaxkDev/JaxkDev) - 2020-08-03T17:25:55Z
 * [JukeBox-pmmp](https://github.com/JaxkDev/JukeBox-pmmp) - 2020-08-02T12:42:15Z
 * [PocketMine-MP](https://github.com/JaxkDev/PocketMine-MP) - 2020-08-01T14:27:20Z
 * [poggit-laravel](https://github.com/JaxkDev/poggit-laravel) - 2020-07-21T20:47:46Z
+* [Forex-Virtual-Trading](https://github.com/JaxkDev/Forex-Virtual-Trading) - 2020-07-20T17:34:46Z
+* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2020-07-09T09:37:46Z
+* [me-spam](https://github.com/JaxkDev/me-spam) - 2020-06-30T11:17:56Z
+* [koth](https://github.com/JaxkDev/koth) - 2020-06-28T16:57:08Z
 <!-- recent_updates ends -->
 More [new projects](https://github.com/JaxkDev?tab=repositories)
 </td><td valign="top" width="33%">
