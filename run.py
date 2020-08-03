@@ -155,7 +155,7 @@ if __name__ == "__main__":
     )
     project_releases.open("w").write(project_releases_content)
 
-    updates = fetch_updates()
+    updates = fetch_updates(TOKEN)
     updates_md = "\n".join(
         [
             "* [{title}]({url}) - {created_at}".format(
