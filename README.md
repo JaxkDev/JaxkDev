@@ -19,7 +19,7 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [JaxkDev](https://github.com/JaxkDev/JaxkDev) - 2020-08-04T08:32:32Z
+* [JaxkDev](https://github.com/JaxkDev/JaxkDev) - 2020-08-04T08:38:58Z
 * [poggit-rewrite](https://github.com/JaxkDev/poggit-rewrite) - 2020-08-03T17:28:22Z
 * [HTB-Data](https://github.com/JaxkDev/HTB-Data) - 2020-08-03T17:27:13Z
 * [JukeBox-pmmp](https://github.com/JaxkDev/JukeBox-pmmp) - 2020-08-02T12:42:15Z
@@ -36,7 +36,7 @@ More [new projects](https://github.com/JaxkDev?tab=repositories)
 </td></tr></table>
 
 <!-- updated_at starts -->
-Last updated at `04-Aug-2020 (08:38:53) UTC+00`
+Last updated at `04-Aug-2020 (08:45:29) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
