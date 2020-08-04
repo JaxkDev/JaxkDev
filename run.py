@@ -81,7 +81,7 @@ def fetch_updates(oauth_token):
     print()
     updates = []
     for u in data["data"]["viewer"]["repositories"]["nodes"]:
-        if(u['name'] !== "JaxkDev"):
+        if(u['name'] != "JaxkDev"):
             updates.append(u)
     return updates
 
