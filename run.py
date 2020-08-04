@@ -72,15 +72,18 @@ def make_update_query(amount=5):
     )
     
 def fetch_updates(oauth_token):
-    repos = []
     data = client.execute(
-        query=make_update_query(8),
+        query=make_update_query(6),
         headers={"Authorization": "Bearer {}".format(oauth_token)},
     )
     print("updates:")
     print(json.dumps(data, indent=4))
     print()
-    return data["data"]["viewer"]["repositories"]["nodes"]
+    updates = []
+    for u in data["data"]["viewer"]["repositories"]["nodes"]:
+        if(u['name'] !== "JaxkDev"):
+            updates.append(u)
+    return updates
 
 def fetch_releases(oauth_token):
     repos = []
@@ -130,7 +133,7 @@ if __name__ == "__main__":
     md = "\n".join(
         [
             "* [{repo} {release}]({url}) - {published_day}".format(**release)
-            for release in releases[:8]
+            for release in releases[:6]
         ]
     )
     readme_contents = readme.open().read()
