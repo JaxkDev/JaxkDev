@@ -1,5 +1,5 @@
 # JaxkDev
-Backend Developer currently working on [poggit](https://github.com/JaxkDev/Poggit) and other private projects. [follow @JaxkDev](https://twitter.com/jaxkdev) on twitter for important updates.
+Backend Developer currently working on [pmmp](https://github.com/JaxkDev/PocketMine-MP) and other private projects. [follow @JaxkDev](https://twitter.com/jaxkdev) on twitter for important updates.
 
 <table><tr><td valign="top" width="33%">
 
@@ -23,13 +23,14 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 * [PocketMine-MP](https://github.com/JaxkDev/PocketMine-MP) - 2020-08-01T14:27:20Z
 * [Forex-Virtual-Trading](https://github.com/JaxkDev/Forex-Virtual-Trading) - 2020-07-20T17:34:46Z
 <!-- recent_updates ends -->
-More [new projects](https://github.com/JaxkDev?tab=repositories)
+More [recently updated](https://github.com/JaxkDev?tab=repositories)
 </td><td valign="top" width="33%">
 
 ### Notices
-* No Notices.
+* JukeBox pmmp plugin archived, [PR'd](https://github.com/pmmp/PocketMine-MP/pull/3742) jukebox & records into PM4.
 </td></tr></table>
 
+This page gets updated daily.
 <!-- updated_at starts -->
 Last updated at `04-Aug-2020 (13:02:59) UTC+00`
 <!-- updated_at ends -->
