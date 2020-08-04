@@ -11,7 +11,7 @@ All <!-- release_count starts -->11<!-- release_count ends --> of my released pr
 <br>ARCHIVED PLUGIN !
 * **[MusicQuiz-C](https://github.com/JaxkDev/MusicQuiz-C)**: [v1.0.0](https://github.com/JaxkDev/MusicQuiz-C/releases/tag/1.0.0) - 2019-10-28
 <br>A music quiz game written in C
-* **[koth](https://github.com/JaxkDev/koth)**: [KOTH v1.0.0-Beta4](https://github.com/JaxkDev/koth/releases/tag/1.0.0-Beta4) - 2019-10-06
+* **[koth](https://github.com/JaxkDev/koth)**: [v1.0.0-Beta4](https://github.com/JaxkDev/koth/releases/tag/1.0.0-Beta4) - 2019-10-06
 <br>King Of The Hill, Pocketmine-MP Mini-game Plugin.
 * **[Bounty](https://github.com/JaxkDev/Bounty)**: [v1.1.2](https://github.com/JaxkDev/Bounty/releases/tag/1.1.2) - 2019-07-20
 <br>A PMMP plugin that brings bountys to MCPE set a bounty on a player and kill them to get the specified amount of money,
