@@ -30,7 +30,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 * JukeBox pmmp plugin archived, [PR'd](https://github.com/pmmp/PocketMine-MP/pull/3742) jukebox & records into PM4.
 </td></tr></table>
 
-This page gets updated daily.
+This page gets updated twice a day.
 <!-- updated_at starts -->
 Last updated at `04-Aug-2020 (13:07:09) UTC+00`
 <!-- updated_at ends -->
