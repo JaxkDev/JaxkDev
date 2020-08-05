@@ -5,7 +5,7 @@ All <!-- release_count starts -->11<!-- release_count ends --> of my released pr
 <!-- recent_releases starts -->
 * **[Vehicles](https://github.com/JaxkDev/Vehicles)**: [v0.1.6](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.6) - 2020-06-26
 <br>[WIP | Pre-Release] A PocketMine-MP plugin that brings vehicles to your server !
-* **[MediaBox-Converter](https://github.com/JaxkDev/MediaBox-Converter)**: [MB-Converter v1.0.0](https://github.com/JaxkDev/MediaBox-Converter/releases/tag/1.0.0) - 2020-05-22
+* **[MediaBox-Converter](https://github.com/JaxkDev/MediaBox-Converter)**: [v1.0.0](https://github.com/JaxkDev/MediaBox-Converter/releases/tag/1.0.0) - 2020-05-22
 <br>Convert the MediaBoxHD m3u8 media to mp4.
 * **[MCPEToDiscord](https://github.com/JaxkDev/MCPEToDiscord)**: [v 1.4.1](https://github.com/JaxkDev/MCPEToDiscord/releases/tag/1.4.1) - 2019-12-04
 <br>ARCHIVED PLUGIN !
