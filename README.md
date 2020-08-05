@@ -36,6 +36,6 @@ Last updated at `05-Aug-2020 (07:58:32) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
-[![HitCount](http://hits.dwyl.com/JaxkDev/JaxkDev.svg)](http://hits.dwyl.com/JaxkDev/JaxkDev)
+![HitCount](https://www.webfreecounter.com/hit.php?id=gmufdpqq&nd=6&style=23)
 
 *Thanks to Simon Willison for the original profile repo, https://github.com/simonw/simonw*
