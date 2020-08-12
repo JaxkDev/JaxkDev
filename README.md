@@ -17,11 +17,11 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [PyRak](https://github.com/JaxkDev/PyRak) - 2020-08-12T17:12:12Z
+* [poggit-rewrite](https://github.com/JaxkDev/poggit-rewrite) - 2020-08-12T12:54:58Z
 * [DiscordRelay-PocketMine](https://github.com/JaxkDev/DiscordRelay-PocketMine) - 2020-08-11T18:16:48Z
 * [HTB-Data](https://github.com/JaxkDev/HTB-Data) - 2020-08-09T10:37:22Z
 * [KodiTestAddon](https://github.com/JaxkDev/KodiTestAddon) - 2020-08-05T16:25:34Z
-* [poggit-rewrite](https://github.com/JaxkDev/poggit-rewrite) - 2020-08-03T17:28:22Z
-* [JukeBox-pmmp](https://github.com/JaxkDev/JukeBox-pmmp) - 2020-08-02T12:42:15Z
 <!-- recent_updates ends -->
 More [recently updated](https://github.com/JaxkDev?tab=repositories)
 </td><td valign="top" width="33%">
@@ -32,7 +32,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `12-Aug-2020 (07:05:35) UTC+00`
+Last updated at `12-Aug-2020 (19:05:28) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
