@@ -17,11 +17,11 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [PyRak](https://github.com/JaxkDev/PyRak) - 2020-08-12T17:12:12Z
+* [PyRak](https://github.com/JaxkDev/PyRak) - 2020-08-13T17:29:34Z
+* [FormImagesFix](https://github.com/JaxkDev/FormImagesFix) - 2020-08-13T14:57:20Z
+* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2020-08-13T12:30:13Z
 * [poggit-rewrite](https://github.com/JaxkDev/poggit-rewrite) - 2020-08-12T12:54:58Z
 * [DiscordRelay-PocketMine](https://github.com/JaxkDev/DiscordRelay-PocketMine) - 2020-08-11T18:16:48Z
-* [HTB-Data](https://github.com/JaxkDev/HTB-Data) - 2020-08-09T10:37:22Z
-* [KodiTestAddon](https://github.com/JaxkDev/KodiTestAddon) - 2020-08-05T16:25:34Z
 <!-- recent_updates ends -->
 More [recently updated](https://github.com/JaxkDev?tab=repositories)
 </td><td valign="top" width="33%">
@@ -32,7 +32,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `13-Aug-2020 (07:05:49) UTC+00`
+Last updated at `13-Aug-2020 (19:05:09) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
