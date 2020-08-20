@@ -17,11 +17,11 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [poggit-phpstan](https://github.com/JaxkDev/poggit-phpstan) - 2020-08-20T15:52:50Z
 * [InfoAPI](https://github.com/JaxkDev/InfoAPI) - 2020-08-19T11:19:28Z
 * [InfoAPI](https://github.com/JaxkDev/InfoAPI) - 2020-08-18T14:46:43Z
 * [InfoAPI-Demo](https://github.com/JaxkDev/InfoAPI-Demo) - 2020-08-18T14:45:02Z
 * [PyRak](https://github.com/JaxkDev/PyRak) - 2020-08-14T13:23:04Z
-* [PyBinaryUtils](https://github.com/JaxkDev/PyBinaryUtils) - 2020-08-14T10:25:13Z
 <!-- recent_updates ends -->
 More [recently updated](https://github.com/JaxkDev?tab=repositories)
 </td><td valign="top" width="33%">
@@ -32,7 +32,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `20-Aug-2020 (07:05:42) UTC+00`
+Last updated at `20-Aug-2020 (19:05:31) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
