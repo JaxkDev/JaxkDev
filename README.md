@@ -17,7 +17,7 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [PyRak](https://github.com/JaxkDev/PyRak) - 2020-09-10T15:13:33Z
+* [PyRak](https://github.com/JaxkDev/PyRak) - 2020-09-11T18:24:37Z
 * [PythonPlayground](https://github.com/JaxkDev/PythonPlayground) - 2020-09-09T17:20:56Z
 * [RedBedServer](https://github.com/JaxkDev/RedBedServer) - 2020-09-07T17:08:02Z
 * [poggit-phpstan](https://github.com/JaxkDev/poggit-phpstan) - 2020-08-20T15:52:50Z
@@ -32,7 +32,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `11-Sep-2020 (07:06:26) UTC+00`
+Last updated at `11-Sep-2020 (19:06:17) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
