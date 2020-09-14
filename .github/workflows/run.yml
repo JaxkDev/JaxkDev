@@ -35,7 +35,7 @@ jobs:
     - name: Commit and push if changed
       run: |-
         git diff
-        git config --global user.email "JaxkDev@gmail.com"
+        git config --global user.email ""
         git config --global user.name "JaxkDev-Workflow"
         git add -A
         git commit -m "Generated README" || exit 0
