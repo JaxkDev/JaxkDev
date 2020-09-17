@@ -17,11 +17,11 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [PyRak](https://github.com/JaxkDev/PyRak) - 2020-09-17T17:26:39Z
+* [ClikActions](https://github.com/JaxkDev/ClikActions) - 2020-09-17T14:47:30Z
 * [PyBinaryUtils](https://github.com/JaxkDev/PyBinaryUtils) - 2020-09-14T16:41:22Z
-* [PyRak](https://github.com/JaxkDev/PyRak) - 2020-09-14T13:21:29Z
 * [PythonPlayground](https://github.com/JaxkDev/PythonPlayground) - 2020-09-09T17:20:56Z
 * [RedBedServer](https://github.com/JaxkDev/RedBedServer) - 2020-09-07T17:08:02Z
-* [poggit-phpstan](https://github.com/JaxkDev/poggit-phpstan) - 2020-08-20T15:52:50Z
 <!-- recent_updates ends -->
 More [recently updated](https://github.com/JaxkDev?tab=repositories)
 </td><td valign="top" width="33%">
@@ -32,7 +32,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `17-Sep-2020 (07:06:35) UTC+00`
+Last updated at `17-Sep-2020 (19:05:58) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
