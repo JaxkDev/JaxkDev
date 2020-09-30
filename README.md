@@ -17,9 +17,9 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [DimBis](https://github.com/JaxkDev/DimBis) - 2020-09-30T07:59:01Z
+* [RedBedServer](https://github.com/JaxkDev/RedBedServer) - 2020-09-30T15:36:35Z
+* [PyRak](https://github.com/JaxkDev/PyRak) - 2020-09-30T15:16:02Z
 * [poggit-rewrite](https://github.com/JaxkDev/poggit-rewrite) - 2020-09-27T18:17:41Z
-* [PyRak](https://github.com/JaxkDev/PyRak) - 2020-09-21T16:13:16Z
 * [InfoAPI](https://github.com/JaxkDev/InfoAPI) - 2020-09-20T13:35:58Z
 * [ClikActions](https://github.com/JaxkDev/ClikActions) - 2020-09-17T14:47:30Z
 <!-- recent_updates ends -->
@@ -32,7 +32,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `30-Sep-2020 (08:02:54) UTC+00`
+Last updated at `30-Sep-2020 (19:06:18) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
