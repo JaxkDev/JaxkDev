@@ -37,4 +37,6 @@ Last updated at `30-Sep-2020 (07:07:10) UTC+00`
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
 
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=JaxkDev&theme=dark&show_icons=true&title_color=fff&text_color=fff&count_private=true)
+
 *Thanks to Simon Willison for the original profile repo, https://github.com/simonw/simonw*
