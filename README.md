@@ -17,11 +17,11 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [poggit](https://github.com/JaxkDev/poggit) - 2020-10-18T15:59:46Z
 * [koth](https://github.com/JaxkDev/koth) - 2020-10-15T14:19:29Z
 * [InfoAPI-Demo](https://github.com/JaxkDev/InfoAPI-Demo) - 2020-10-09T01:02:35Z
 * [MCPEToDiscord](https://github.com/JaxkDev/MCPEToDiscord) - 2020-10-06T16:03:36Z
 * [RedBedServer](https://github.com/JaxkDev/RedBedServer) - 2020-09-30T15:36:35Z
-* [PyRak](https://github.com/JaxkDev/PyRak) - 2020-09-30T15:16:02Z
 <!-- recent_updates ends -->
 More [recently updated](https://github.com/JaxkDev?tab=repositories)
 </td><td valign="top" width="33%">
@@ -32,7 +32,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `18-Oct-2020 (07:08:12) UTC+00`
+Last updated at `18-Oct-2020 (19:07:00) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
