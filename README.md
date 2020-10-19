@@ -17,7 +17,7 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [poggit](https://github.com/JaxkDev/poggit) - 2020-10-18T15:59:46Z
+* [poggit](https://github.com/JaxkDev/poggit) - 2020-10-19T10:48:06Z
 * [koth](https://github.com/JaxkDev/koth) - 2020-10-15T14:19:29Z
 * [InfoAPI-Demo](https://github.com/JaxkDev/InfoAPI-Demo) - 2020-10-09T01:02:35Z
 * [MCPEToDiscord](https://github.com/JaxkDev/MCPEToDiscord) - 2020-10-06T16:03:36Z
@@ -32,7 +32,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `19-Oct-2020 (07:11:03) UTC+00`
+Last updated at `19-Oct-2020 (19:06:52) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
