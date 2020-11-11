@@ -30,13 +30,13 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 * JukeBox pmmp plugin archived, [PR'd](https://github.com/pmmp/PocketMine-MP/pull/3742) jukebox & records into PM4.
 </td></tr></table>
 
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=JaxkDev&theme=dark&show_icons=true&title_color=fff&text_color=fff&count_private=true)
+
 This page gets updated twice a day.
 <!-- updated_at starts -->
 Last updated at `11-Nov-2020 (07:05:32) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
-
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=JaxkDev&theme=dark&show_icons=true&title_color=fff&text_color=fff&count_private=true)
 
 *Thanks to Simon Willison for the original profile repo, https://github.com/simonw/simonw*
