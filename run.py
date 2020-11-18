@@ -61,8 +61,12 @@ def make_update_query(amount=5):
     name
     repositories(first: FIRST, orderBy: {field: UPDATED_AT, direction: DESC}) {
       nodes {
+        owner {
+          login
+        }
         name,
-        updatedAt
+        updatedAt,
+        isPrivate
       }
     }
   }
@@ -73,7 +77,7 @@ def make_update_query(amount=5):
     
 def fetch_updates(oauth_token):
     data = client.execute(
-        query=make_update_query(6),
+        query=make_update_query(20),
         headers={"Authorization": "Bearer {}".format(oauth_token)},
     )
     print("updates:")
@@ -81,7 +85,9 @@ def fetch_updates(oauth_token):
     print()
     updates = []
     for u in data["data"]["viewer"]["repositories"]["nodes"]:
-        if(u['name'] != "JaxkDev"):
+        if(len(updates) == 5):
+            break
+        if(u['name'] != "JaxkDev" and u['owner']['login'] == "JaxkDev"):
             updates.append(u)
     return updates
 
@@ -161,10 +167,11 @@ if __name__ == "__main__":
     updates = fetch_updates(TOKEN)
     updates_md = "\n".join(
         [
-            "* [{title}]({url}) - {created_at}".format(
+            "* [{title}]({url}) {private}- {created_at}".format(
                 title=update["name"],
                 url="https://github.com/JaxkDev/"+update["name"],
                 created_at=update["updatedAt"],
+                private=("(*P*) " if update["isPrivate"] else ""),
             )
             for update in updates
         ]
