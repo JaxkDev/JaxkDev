@@ -171,7 +171,7 @@ if __name__ == "__main__":
                 title=update["name"],
                 url="https://github.com/JaxkDev/"+update["name"],
                 created_at=update["updatedAt"],
-                private=("(*P*) " if update["isPrivate"] else ""),
+                private=("*<Private>*) " if update["isPrivate"] else ""),
             )
             for update in updates
         ]
