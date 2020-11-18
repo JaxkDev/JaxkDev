@@ -19,7 +19,7 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 <!-- recent_updates starts -->
 * [InfoAPI](https://github.com/JaxkDev/InfoAPI) - 2020-11-15T18:31:04Z
 * [poggit](https://github.com/JaxkDev/poggit) - 2020-11-12T16:52:56Z
-* [poggit-rewrite](https://github.com/JaxkDev/poggit-rewrite) *<Private>*) - 2020-11-11T09:06:05Z
+* [poggit-rewrite](https://github.com/JaxkDev/poggit-rewrite) *{Private}* - 2020-11-11T09:06:05Z
 * [Vehicles](https://github.com/JaxkDev/Vehicles) - 2020-11-02T23:14:54Z
 * [PoggitTestPlugin](https://github.com/JaxkDev/PoggitTestPlugin) - 2020-10-31T07:26:07Z
 <!-- recent_updates ends -->
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `18-Nov-2020 (19:10:48) UTC+00`
+Last updated at `18-Nov-2020 (19:12:24) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
