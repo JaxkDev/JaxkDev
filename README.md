@@ -17,11 +17,11 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [DiscordBot](https://github.com/JaxkDev/DiscordBot) *{Private}* - 2020-11-22T18:30:41Z
+* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2020-11-22T13:41:13Z
 * [DiscordPHPSlim](https://github.com/JaxkDev/DiscordPHPSlim) - 2020-11-21T07:38:45Z
-* [DiscordBot](https://github.com/JaxkDev/DiscordBot) *{Private}* - 2020-11-20T18:40:55Z
 * [InfoAPI](https://github.com/JaxkDev/InfoAPI) - 2020-11-15T18:31:04Z
 * [poggit](https://github.com/JaxkDev/poggit) - 2020-11-12T16:52:56Z
-* [poggit-rewrite](https://github.com/JaxkDev/poggit-rewrite) *{Private}* - 2020-11-11T09:06:05Z
 <!-- recent_updates ends -->
 More [recently updated](https://github.com/JaxkDev?tab=repositories)
 </td><td valign="top" width="33%">
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `22-Nov-2020 (07:05:59) UTC+00`
+Last updated at `22-Nov-2020 (19:04:47) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
