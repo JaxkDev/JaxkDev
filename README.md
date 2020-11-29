@@ -17,7 +17,7 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [DiscordBot](https://github.com/JaxkDev/DiscordBot) *{Private}* - 2020-11-28T20:56:11Z
+* [DiscordBot](https://github.com/JaxkDev/DiscordBot) *{Private}* - 2020-11-29T15:05:03Z
 * [DiscordPHPSlim](https://github.com/JaxkDev/DiscordPHPSlim) - 2020-11-28T10:27:13Z
 * [Vehicles](https://github.com/JaxkDev/Vehicles) - 2020-11-25T17:43:57Z
 * [InfoAPI](https://github.com/JaxkDev/InfoAPI) - 2020-11-15T18:31:04Z
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `29-Nov-2020 (07:06:29) UTC+00`
+Last updated at `29-Nov-2020 (19:05:13) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
