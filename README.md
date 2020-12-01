@@ -5,7 +5,7 @@ Backend Developer currently working on [poggit.pmmp.io](https://github.com/JaxkD
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [DiscordBot Candidate A3](https://github.com/JaxkDev/DiscordBot/releases/tag/1.0.0_A3) - 2020-11-28
+* [DiscordBot Discord v1.0.0](https://github.com/JaxkDev/DiscordBot/releases/tag/1.0.0) - 2020-12-01
 * [Vehicles v0.1.6](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.6) - 2020-06-26
 * [MediaBox-Converter v1.0.0](https://github.com/JaxkDev/MediaBox-Converter/releases/tag/1.0.0) - 2020-05-22
 * [MCPEToDiscord v 1.4.1](https://github.com/JaxkDev/MCPEToDiscord/releases/tag/1.4.1) - 2019-12-04
@@ -17,8 +17,8 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2020-11-30T19:03:42Z
-* [DiscordPHPSlim](https://github.com/JaxkDev/DiscordPHPSlim) - 2020-11-28T10:27:13Z
+* [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2020-12-01T19:04:14Z
+* [DiscordPHPSlim](https://github.com/JaxkDev/DiscordPHPSlim) - 2020-12-01T16:21:28Z
 * [Vehicles](https://github.com/JaxkDev/Vehicles) - 2020-11-25T17:43:57Z
 * [InfoAPI](https://github.com/JaxkDev/InfoAPI) - 2020-11-15T18:31:04Z
 * [poggit](https://github.com/JaxkDev/poggit) - 2020-11-12T16:52:56Z
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `01-Dec-2020 (07:06:46) UTC+00`
+Last updated at `01-Dec-2020 (20:31:53) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)

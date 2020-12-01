@@ -3,7 +3,7 @@
 All <!-- release_count starts -->12<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[DiscordBot](https://github.com/JaxkDev/DiscordBot)**: [Candidate A3](https://github.com/JaxkDev/DiscordBot/releases/tag/1.0.0_A3) - 2020-11-28
+* **[DiscordBot](https://github.com/JaxkDev/DiscordBot)**: [Discord v1.0.0](https://github.com/JaxkDev/DiscordBot/releases/tag/1.0.0) - 2020-12-01
 <br>DiscordBot
 * **[Vehicles](https://github.com/JaxkDev/Vehicles)**: [v0.1.6](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.6) - 2020-06-26
 <br>[WIP | Pre-Release] A PocketMine-MP plugin that brings vehicles to your server !
