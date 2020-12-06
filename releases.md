@@ -4,7 +4,7 @@ All <!-- release_count starts -->12<!-- release_count ends --> of my released pr
 
 <!-- recent_releases starts -->
 * **[DiscordBot](https://github.com/JaxkDev/DiscordBot)**: [v1.0.0](https://github.com/JaxkDev/DiscordBot/releases/tag/1.0.0) - 2020-12-01
-<br>DiscordBot
+<br>DiscordBot, A replacement of MCPEToDiscord. Host your very own discord bot instead of using webhooks !
 * **[Vehicles](https://github.com/JaxkDev/Vehicles)**: [v0.1.6](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.6) - 2020-06-26
 <br>[WIP | Pre-Release] A PocketMine-MP plugin that brings vehicles to your server !
 * **[MediaBox-Converter](https://github.com/JaxkDev/MediaBox-Converter)**: [v1.0.0](https://github.com/JaxkDev/MediaBox-Converter/releases/tag/1.0.0) - 2020-05-22
