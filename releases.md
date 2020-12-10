@@ -3,10 +3,10 @@
 All <!-- release_count starts -->12<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[Vehicles](https://github.com/JaxkDev/Vehicles)**: [v0.1.9](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.9) - 2020-12-10
+<br>[WIP | Pre-Release] A PocketMine-MP plugin that brings vehicles to your server !
 * **[DiscordBot](https://github.com/JaxkDev/DiscordBot)**: [v1.0.0](https://github.com/JaxkDev/DiscordBot/releases/tag/1.0.0) - 2020-12-01
 <br>DiscordBot, A replacement of MCPEToDiscord. Host your very own discord bot instead of using webhooks !
-* **[Vehicles](https://github.com/JaxkDev/Vehicles)**: [v0.1.6](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.6) - 2020-06-26
-<br>[WIP | Pre-Release] A PocketMine-MP plugin that brings vehicles to your server !
 * **[MediaBox-Converter](https://github.com/JaxkDev/MediaBox-Converter)**: [v1.0.0](https://github.com/JaxkDev/MediaBox-Converter/releases/tag/1.0.0) - 2020-05-22
 <br>Convert the MediaBoxHD m3u8 media to mp4.
 * **[MCPEToDiscord](https://github.com/JaxkDev/MCPEToDiscord)**: [v 1.4.1](https://github.com/JaxkDev/MCPEToDiscord/releases/tag/1.4.1) - 2019-12-04

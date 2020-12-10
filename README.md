@@ -5,8 +5,8 @@ Backend Developer currently working on [poggit.pmmp.io](https://github.com/JaxkD
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [Vehicles v0.1.9](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.9) - 2020-12-10
 * [DiscordBot v1.0.0](https://github.com/JaxkDev/DiscordBot/releases/tag/1.0.0) - 2020-12-01
-* [Vehicles v0.1.6](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.6) - 2020-06-26
 * [MediaBox-Converter v1.0.0](https://github.com/JaxkDev/MediaBox-Converter/releases/tag/1.0.0) - 2020-05-22
 * [MCPEToDiscord v 1.4.1](https://github.com/JaxkDev/MCPEToDiscord/releases/tag/1.4.1) - 2019-12-04
 * [MusicQuiz-C v1.0.0](https://github.com/JaxkDev/MusicQuiz-C/releases/tag/1.0.0) - 2019-10-28
@@ -17,10 +17,10 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2020-12-10T19:06:14Z
+* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2020-12-10T17:19:30Z
 * [rbx-ts-test](https://github.com/JaxkDev/rbx-ts-test) *{Private}* - 2020-12-09T18:30:10Z
-* [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2020-12-06T16:20:57Z
 * [DiscordPHPSlim](https://github.com/JaxkDev/DiscordPHPSlim) - 2020-12-01T16:21:28Z
-* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2020-11-25T17:43:57Z
 * [InfoAPI](https://github.com/JaxkDev/InfoAPI) - 2020-11-15T18:31:04Z
 <!-- recent_updates ends -->
 More [recently updated](https://github.com/JaxkDev?tab=repositories)
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `10-Dec-2020 (07:06:56) UTC+00`
+Last updated at `10-Dec-2020 (19:06:21) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
