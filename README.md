@@ -17,7 +17,7 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [Lumberjack-Simulator](https://github.com/JaxkDev/Lumberjack-Simulator) *{Private}* - 2020-12-16T18:59:31Z
+* [Lumberjack-Simulator](https://github.com/JaxkDev/Lumberjack-Simulator) *{Private}* - 2020-12-16T20:43:45Z
 * [TopFactions](https://github.com/JaxkDev/TopFactions) - 2020-12-16T07:55:25Z
 * [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2020-12-13T14:41:31Z
 * [Vehicles](https://github.com/JaxkDev/Vehicles) - 2020-12-10T17:19:30Z
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `16-Dec-2020 (19:06:08) UTC+00`
+Last updated at `17-Dec-2020 (07:08:30) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
