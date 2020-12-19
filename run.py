@@ -87,7 +87,7 @@ def fetch_updates(oauth_token):
     for u in data["data"]["viewer"]["repositories"]["nodes"]:
         if(len(updates) == 5):
             break
-        if(u['name'] != "JaxkDev" and u['owner']['login'] == "JaxkDev"):
+        if(u['name'] != "JaxkDev" and u['owner']['login'] == "JaxkDev" and !u['isPrivate']):
             updates.append(u)
     return updates
 
@@ -167,11 +167,10 @@ if __name__ == "__main__":
     updates = fetch_updates(TOKEN)
     updates_md = "\n".join(
         [
-            "* [{title}]({url}) {private}- {created_at}".format(
+            "* [{title}]({url}) - {created_at}".format(
                 title=update["name"],
                 url="https://github.com/JaxkDev/"+update["name"],
                 created_at=update["updatedAt"],
-                private=("*{Private}* " if update["isPrivate"] else ""),
             )
             for update in updates
         ]
