@@ -87,7 +87,7 @@ def fetch_updates(oauth_token):
     for u in data["data"]["viewer"]["repositories"]["nodes"]:
         if(len(updates) == 5):
             break
-        if(u['name'] != "JaxkDev" and u['owner']['login'] == "JaxkDev" and !u['isPrivate']):
+        if(u['name'] != "JaxkDev" and u['owner']['login'] == "JaxkDev" and not u['isPrivate']):
             updates.append(u)
     return updates
 
