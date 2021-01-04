@@ -17,9 +17,9 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2021-01-03T20:21:13Z
 * [libgdx](https://github.com/JaxkDev/libgdx) - 2021-01-02T13:42:46Z
 * [DiscordPHPSlim](https://github.com/JaxkDev/DiscordPHPSlim) - 2021-01-02T03:46:23Z
-* [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2020-12-30T20:16:02Z
 * [VTC-Site](https://github.com/JaxkDev/VTC-Site) - 2020-12-29T11:41:24Z
 * [TopFactions](https://github.com/JaxkDev/TopFactions) - 2020-12-16T07:55:25Z
 <!-- recent_updates ends -->
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `03-Jan-2021 (19:26:32) UTC+00`
+Last updated at `04-Jan-2021 (07:21:37) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
