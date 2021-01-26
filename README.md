@@ -17,9 +17,9 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2021-01-26T18:44:01Z
 * [VanillaX](https://github.com/JaxkDev/VanillaX) - 2021-01-25T08:10:20Z
 * [SlimeWorld](https://github.com/JaxkDev/SlimeWorld) - 2021-01-24T20:43:30Z
-* [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2021-01-15T16:09:55Z
 * [LibGDX-Template](https://github.com/JaxkDev/LibGDX-Template) - 2021-01-06T08:47:19Z
 * [PocketMine-MP](https://github.com/JaxkDev/PocketMine-MP) - 2021-01-04T17:46:48Z
 <!-- recent_updates ends -->
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `26-Jan-2021 (07:11:02) UTC+00`
+Last updated at `26-Jan-2021 (19:16:10) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
