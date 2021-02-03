@@ -17,11 +17,11 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2021-02-02T21:25:39Z
 * [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2021-01-31T19:58:34Z
 * [RedStar](https://github.com/JaxkDev/RedStar) - 2021-01-30T19:46:10Z
 * [libgdx-demo-invaders](https://github.com/JaxkDev/libgdx-demo-invaders) - 2021-01-28T10:44:02Z
 * [VanillaX](https://github.com/JaxkDev/VanillaX) - 2021-01-25T08:10:20Z
-* [SlimeWorld](https://github.com/JaxkDev/SlimeWorld) - 2021-01-24T20:43:30Z
 <!-- recent_updates ends -->
 More [recently updated](https://github.com/JaxkDev?tab=repositories)
 </td><td valign="top" width="33%">
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `02-Feb-2021 (19:15:05) UTC+00`
+Last updated at `03-Feb-2021 (07:08:12) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
