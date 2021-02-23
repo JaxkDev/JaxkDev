@@ -17,8 +17,8 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2021-02-23T06:37:12Z
 * [poggit](https://github.com/JaxkDev/poggit) - 2021-02-22T10:24:12Z
-* [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2021-02-19T20:07:58Z
 * [VanillaX](https://github.com/JaxkDev/VanillaX) - 2021-02-17T13:29:48Z
 * [promises](https://github.com/JaxkDev/promises) - 2021-02-14T18:19:23Z
 * [PySpeechRecognition](https://github.com/JaxkDev/PySpeechRecognition) - 2021-02-04T17:44:15Z
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `22-Feb-2021 (19:05:26) UTC+00`
+Last updated at `23-Feb-2021 (07:06:57) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
