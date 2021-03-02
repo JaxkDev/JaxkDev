@@ -3,6 +3,8 @@
 All <!-- release_count starts -->12<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[SizePlayerPMMP](https://github.com/YassenTrick/SizePlayerPMMP)**: [SizePlayer v2.0.0](https://github.com/YassenTrick/SizePlayerPMMP/releases/tag/2.0.0) - 2021-03-01
+<br>A PMMP plugin that allows players to change their size.
 * **[Vehicles](https://github.com/JaxkDev/Vehicles)**: [v0.1.9](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.9) - 2020-12-10
 <br>[WIP | Pre-Release] A PocketMine-MP plugin that brings vehicles to your server !
 * **[DiscordBot](https://github.com/JaxkDev/DiscordBot)**: [v1.0.0](https://github.com/JaxkDev/DiscordBot/releases/tag/1.0.0) - 2020-12-01
@@ -25,6 +27,4 @@ All <!-- release_count starts -->12<!-- release_count ends --> of my released pr
 <br>Implements Jukebox into pmmp, Join the discord for general help and chat with me the dev: https://tiny.cc/JaxksDC
 * **[NodeLife](https://github.com/JaxkDev/NodeLife)**: [V0.0.5 - Alpha](https://github.com/JaxkDev/NodeLife/releases/tag/0.0.5) - 2018-11-30
 <br>NodeLife: Will you survive ?
-* **[SizePlayerPMMP](https://github.com/YassenTrick/SizePlayerPMMP)**: [1.0.2](https://github.com/YassenTrick/SizePlayerPMMP/releases/tag/untagged-d4ad7a1e1ff6a42711fc) - 2018-06-23
-<br>A PMMP plugin that allows players to change their size.
 <!-- recent_releases ends -->
