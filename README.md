@@ -17,7 +17,7 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2021-03-03T17:10:34Z
+* [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2021-03-04T20:39:54Z
 * [Vehicles](https://github.com/JaxkDev/Vehicles) - 2021-03-03T04:17:35Z
 * [PoggitTestPlugin](https://github.com/JaxkDev/PoggitTestPlugin) - 2021-02-23T08:13:14Z
 * [poggit](https://github.com/JaxkDev/poggit) - 2021-02-22T10:24:12Z
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `04-Mar-2021 (19:10:24) UTC+00`
+Last updated at `05-Mar-2021 (07:11:32) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
