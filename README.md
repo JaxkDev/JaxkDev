@@ -5,7 +5,7 @@ Backend Developer currently working on [poggit.pmmp.io](https://github.com/JaxkD
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [Vehicles v0.1.10](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.10) - 2021-03-13
+* [Vehicles v0.1.11](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.11) - 2021-04-08
 * [SizePlayerPMMP SizePlayer v2.0.0](https://github.com/YassenTrick/SizePlayerPMMP/releases/tag/2.0.0) - 2021-03-01
 * [DiscordBot v1.0.0](https://github.com/JaxkDev/DiscordBot/releases/tag/1.0.0) - 2020-12-01
 * [MediaBox-Converter v1.0.0](https://github.com/JaxkDev/MediaBox-Converter/releases/tag/1.0.0) - 2020-05-22
@@ -17,11 +17,11 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2021-04-08T13:36:26Z
 * [poggit](https://github.com/JaxkDev/poggit) - 2021-04-06T17:29:52Z
 * [BlockReward](https://github.com/JaxkDev/BlockReward) - 2021-04-05T22:04:48Z
 * [PoggitTestPlugin](https://github.com/JaxkDev/PoggitTestPlugin) - 2021-04-04T16:29:25Z
 * [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2021-04-02T18:10:05Z
-* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2021-03-13T15:57:25Z
 <!-- recent_updates ends -->
 More [recently updated](https://github.com/JaxkDev?tab=repositories)
 </td><td valign="top" width="33%">
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `08-Apr-2021 (07:06:04) UTC+00`
+Last updated at `08-Apr-2021 (19:07:54) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
