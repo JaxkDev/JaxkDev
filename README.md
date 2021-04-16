@@ -17,8 +17,8 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [ComposerShader](https://github.com/JaxkDev/ComposerShader) - 2021-04-16T17:27:15Z
 * [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2021-04-14T17:36:55Z
-* [ComposerShader](https://github.com/JaxkDev/ComposerShader) - 2021-04-14T15:39:20Z
 * [multicraft](https://github.com/JaxkDev/multicraft) - 2021-04-09T13:06:38Z
 * [Vehicles](https://github.com/JaxkDev/Vehicles) - 2021-04-08T13:36:26Z
 * [poggit](https://github.com/JaxkDev/poggit) - 2021-04-06T17:29:52Z
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `16-Apr-2021 (07:04:41) UTC+00`
+Last updated at `16-Apr-2021 (19:07:15) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
