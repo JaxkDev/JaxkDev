@@ -5,19 +5,19 @@ Backend Developer currently working on [poggit.pmmp.io](https://github.com/JaxkD
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [ComposerShader v0.1.0](https://github.com/JaxkDev/ComposerShader/releases/tag/0.1.0) - 2021-04-19
 * [Vehicles v0.1.11](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.11) - 2021-04-08
 * [SizePlayerPMMP SizePlayer v2.0.0](https://github.com/YassenTrick/SizePlayerPMMP/releases/tag/2.0.0) - 2021-03-01
 * [DiscordBot v1.0.0](https://github.com/JaxkDev/DiscordBot/releases/tag/1.0.0) - 2020-12-01
 * [MediaBox-Converter v1.0.0](https://github.com/JaxkDev/MediaBox-Converter/releases/tag/1.0.0) - 2020-05-22
 * [MCPEToDiscord v 1.4.1](https://github.com/JaxkDev/MCPEToDiscord/releases/tag/1.4.1) - 2019-12-04
-* [MusicQuiz-C v1.0.0](https://github.com/JaxkDev/MusicQuiz-C/releases/tag/1.0.0) - 2019-10-28
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.md)
 </td><td valign="top" width="35%">
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [ComposerShader](https://github.com/JaxkDev/ComposerShader) - 2021-04-19T02:00:02Z
+* [ComposerShader](https://github.com/JaxkDev/ComposerShader) - 2021-04-19T18:04:57Z
 * [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2021-04-14T17:36:55Z
 * [multicraft](https://github.com/JaxkDev/multicraft) - 2021-04-09T13:06:38Z
 * [Vehicles](https://github.com/JaxkDev/Vehicles) - 2021-04-08T13:36:26Z
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `19-Apr-2021 (07:05:52) UTC+00`
+Last updated at `19-Apr-2021 (19:06:47) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
