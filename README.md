@@ -17,11 +17,11 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [VanillaEntityAI](https://github.com/JaxkDev/VanillaEntityAI) - 2021-04-23T18:44:29Z
 * [ComposerShader](https://github.com/JaxkDev/ComposerShader) - 2021-04-23T13:43:27Z
 * [libasynql](https://github.com/JaxkDev/libasynql) - 2021-04-21T15:11:54Z
 * [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2021-04-14T17:36:55Z
 * [multicraft](https://github.com/JaxkDev/multicraft) - 2021-04-09T13:06:38Z
+* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2021-04-08T13:36:26Z
 <!-- recent_updates ends -->
 More [recently updated](https://github.com/JaxkDev?tab=repositories)
 </td><td valign="top" width="33%">
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `25-Apr-2021 (07:06:03) UTC+00`
+Last updated at `25-Apr-2021 (19:07:40) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
