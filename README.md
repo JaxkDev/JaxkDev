@@ -17,7 +17,7 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2021-05-23T16:16:04Z
+* [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2021-05-29T14:34:48Z
 * [CryptoStats](https://github.com/JaxkDev/CryptoStats) - 2021-05-22T10:15:32Z
 * [ComposerShader](https://github.com/JaxkDev/ComposerShader) - 2021-05-19T19:13:26Z
 * [SlimeWorld](https://github.com/JaxkDev/SlimeWorld) - 2021-05-08T13:25:30Z
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `29-May-2021 (08:16:53) UTC+00`
+Last updated at `29-May-2021 (20:11:24) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
