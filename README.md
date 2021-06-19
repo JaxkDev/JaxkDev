@@ -5,8 +5,8 @@ Backend Developer currently working on [poggit.pmmp.io](https://github.com/JaxkD
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [Vehicles v0.1.12](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.12) - 2021-06-19
 * [ComposerShader v0.1.0](https://github.com/JaxkDev/ComposerShader/releases/tag/0.1.0) - 2021-04-19
-* [Vehicles v0.1.11](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.11) - 2021-04-08
 * [SizePlayerPMMP SizePlayer v2.0.0](https://github.com/YassenTrick/SizePlayerPMMP/releases/tag/2.0.0) - 2021-03-01
 * [DiscordBot v1.0.0](https://github.com/JaxkDev/DiscordBot/releases/tag/1.0.0) - 2020-12-01
 * [MediaBox-Converter v1.0.0](https://github.com/JaxkDev/MediaBox-Converter/releases/tag/1.0.0) - 2020-05-22
@@ -17,11 +17,11 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2021-06-17T18:08:13Z
+* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2021-06-19T13:52:43Z
+* [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2021-06-19T13:24:53Z
 * [InfoAPI-Demo](https://github.com/JaxkDev/InfoAPI-Demo) - 2021-06-10T05:44:29Z
 * [CryptoStats](https://github.com/JaxkDev/CryptoStats) - 2021-05-22T10:15:32Z
 * [ComposerShader](https://github.com/JaxkDev/ComposerShader) - 2021-05-19T19:13:26Z
-* [SlimeWorld](https://github.com/JaxkDev/SlimeWorld) - 2021-05-08T13:25:30Z
 <!-- recent_updates ends -->
 More [recently updated](https://github.com/JaxkDev?tab=repositories)
 </td><td valign="top" width="33%">
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `19-Jun-2021 (07:11:34) UTC+00`
+Last updated at `19-Jun-2021 (19:06:26) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
