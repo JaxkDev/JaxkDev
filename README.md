@@ -17,8 +17,8 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2021-06-27T20:35:19Z
-* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2021-06-19T19:11:10Z
+* [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2021-06-30T18:26:46Z
+* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2021-06-30T11:39:30Z
 * [InfoAPI-Demo](https://github.com/JaxkDev/InfoAPI-Demo) - 2021-06-10T05:44:29Z
 * [CryptoStats](https://github.com/JaxkDev/CryptoStats) - 2021-05-22T10:15:32Z
 * [ComposerShader](https://github.com/JaxkDev/ComposerShader) - 2021-05-19T19:13:26Z
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `30-Jun-2021 (07:10:04) UTC+00`
+Last updated at `30-Jun-2021 (19:07:17) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
