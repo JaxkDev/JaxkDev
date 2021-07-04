@@ -17,8 +17,8 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [Zoctorio](https://github.com/JaxkDev/Zoctorio) - 2021-07-03T20:41:44Z
 * [Vehicles](https://github.com/JaxkDev/Vehicles) - 2021-07-02T12:05:34Z
-* [Zoctorio](https://github.com/JaxkDev/Zoctorio) - 2021-07-02T07:38:12Z
 * [DiscordBot](https://github.com/JaxkDev/DiscordBot) - 2021-06-30T18:26:46Z
 * [InfoAPI-Demo](https://github.com/JaxkDev/InfoAPI-Demo) - 2021-06-10T05:44:29Z
 * [CryptoStats](https://github.com/JaxkDev/CryptoStats) - 2021-05-22T10:15:32Z
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `03-Jul-2021 (19:06:24) UTC+00`
+Last updated at `04-Jul-2021 (07:07:30) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
