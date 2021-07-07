@@ -9,8 +9,8 @@ All <!-- release_count starts -->13<!-- release_count ends --> of my released pr
 <br>Shade/Inject composer dependencies into PocketMine-MP plugins.
 * **[SizePlayerPMMP](https://github.com/YassenTrick/SizePlayerPMMP)**: [SizePlayer v2.0.0](https://github.com/YassenTrick/SizePlayerPMMP/releases/tag/2.0.0) - 2021-03-01
 <br>A PMMP plugin that allows players to change their size.
-* **[DiscordBot](https://github.com/JaxkDev/DiscordBot)**: [v1.0.0](https://github.com/JaxkDev/DiscordBot/releases/tag/1.0.0) - 2020-12-01
-<br>DiscordBot, A replacement of MCPEToDiscord. Host your very own discord bot instead of using webhooks !
+* **[DiscordBot](https://github.com/DiscordBot-PMMP/DiscordBot)**: [v1.0.0](https://github.com/DiscordBot-PMMP/DiscordBot/releases/tag/1.0.0) - 2020-12-01
+<br>DiscordBot, A brand new plugin for pocketmine-mp.
 * **[MediaBox-Converter](https://github.com/JaxkDev/MediaBox-Converter)**: [v1.0.0](https://github.com/JaxkDev/MediaBox-Converter/releases/tag/1.0.0) - 2020-05-22
 <br>Convert the MediaBoxHD m3u8 media to mp4.
 * **[MCPEToDiscord](https://github.com/JaxkDev/MCPEToDiscord)**: [v 1.4.1](https://github.com/JaxkDev/MCPEToDiscord/releases/tag/1.4.1) - 2019-12-04
