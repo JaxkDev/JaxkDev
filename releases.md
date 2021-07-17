@@ -3,7 +3,7 @@
 All <!-- release_count starts -->13<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[Vehicles](https://github.com/JaxkDev/Vehicles)**: [v0.1.12](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.12) - 2021-06-19
+* **[Vehicles](https://github.com/JaxkDev/Vehicles)**: [v0.1.13](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.13) - 2021-07-17
 <br>[WIP | Pre-Release] A PocketMine-MP plugin that brings vehicles to your server !
 * **[ComposerShader](https://github.com/JaxkDev/ComposerShader)**: [v0.1.0](https://github.com/JaxkDev/ComposerShader/releases/tag/0.1.0) - 2021-04-19
 <br>Shade/Inject composer dependencies into PocketMine-MP plugins.

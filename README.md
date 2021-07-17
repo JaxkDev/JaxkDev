@@ -5,7 +5,7 @@ Backend Developer currently working on [poggit.pmmp.io](https://github.com/JaxkD
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [Vehicles v0.1.12](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.12) - 2021-06-19
+* [Vehicles v0.1.13](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.13) - 2021-07-17
 * [ComposerShader v0.1.0](https://github.com/JaxkDev/ComposerShader/releases/tag/0.1.0) - 2021-04-19
 * [SizePlayerPMMP SizePlayer v2.0.0](https://github.com/YassenTrick/SizePlayerPMMP/releases/tag/2.0.0) - 2021-03-01
 * [DiscordBot v1.0.0](https://github.com/DiscordBot-PMMP/DiscordBot/releases/tag/1.0.0) - 2020-12-01
@@ -17,7 +17,7 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2021-07-13T04:33:41Z
+* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2021-07-17T06:43:21Z
 * [Zoctorio](https://github.com/JaxkDev/Zoctorio) - 2021-07-03T20:41:44Z
 * [InfoAPI-Demo](https://github.com/JaxkDev/InfoAPI-Demo) - 2021-06-10T05:44:29Z
 * [CryptoStats](https://github.com/JaxkDev/CryptoStats) - 2021-05-22T10:15:32Z
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `16-Jul-2021 (19:06:43) UTC+00`
+Last updated at `17-Jul-2021 (07:07:28) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
