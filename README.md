@@ -17,11 +17,11 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [Bounty](https://github.com/JaxkDev/Bounty) - 2021-07-22T19:29:17Z
 * [Vehicles](https://github.com/JaxkDev/Vehicles) - 2021-07-17T06:43:21Z
 * [Zoctorio](https://github.com/JaxkDev/Zoctorio) - 2021-07-03T20:41:44Z
 * [InfoAPI-Demo](https://github.com/JaxkDev/InfoAPI-Demo) - 2021-06-10T05:44:29Z
 * [CryptoStats](https://github.com/JaxkDev/CryptoStats) - 2021-05-22T10:15:32Z
-* [ComposerShader](https://github.com/JaxkDev/ComposerShader) - 2021-05-19T19:13:26Z
 <!-- recent_updates ends -->
 More [recently updated](https://github.com/JaxkDev?tab=repositories)
 </td><td valign="top" width="33%">
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `22-Jul-2021 (19:06:35) UTC+00`
+Last updated at `23-Jul-2021 (07:07:40) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
