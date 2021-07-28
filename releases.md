@@ -3,14 +3,14 @@
 All <!-- release_count starts -->13<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[DiscordBot](https://github.com/DiscordBot-PMMP/DiscordBot)**: [v2.0.0](https://github.com/DiscordBot-PMMP/DiscordBot/releases/tag/2.0.0) - 2021-07-28
+<br>DiscordBot, A brand new plugin for pocketmine-mp.
 * **[Vehicles](https://github.com/JaxkDev/Vehicles)**: [v0.1.13](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.13) - 2021-07-17
 <br>[WIP | Pre-Release] A PocketMine-MP plugin that brings vehicles to your server !
 * **[ComposerShader](https://github.com/JaxkDev/ComposerShader)**: [v0.1.0](https://github.com/JaxkDev/ComposerShader/releases/tag/0.1.0) - 2021-04-19
 <br>Shade/Inject composer dependencies into PocketMine-MP plugins.
 * **[SizePlayerPMMP](https://github.com/YassenTrick/SizePlayerPMMP)**: [SizePlayer v2.0.0](https://github.com/YassenTrick/SizePlayerPMMP/releases/tag/2.0.0) - 2021-03-01
 <br>A PMMP plugin that allows players to change their size.
-* **[DiscordBot](https://github.com/DiscordBot-PMMP/DiscordBot)**: [v1.0.0](https://github.com/DiscordBot-PMMP/DiscordBot/releases/tag/1.0.0) - 2020-12-01
-<br>DiscordBot, A brand new plugin for pocketmine-mp.
 * **[MediaBox-Converter](https://github.com/JaxkDev/MediaBox-Converter)**: [v1.0.0](https://github.com/JaxkDev/MediaBox-Converter/releases/tag/1.0.0) - 2020-05-22
 <br>Convert the MediaBoxHD m3u8 media to mp4.
 * **[MCPEToDiscord](https://github.com/JaxkDev/MCPEToDiscord)**: [v 1.4.1](https://github.com/JaxkDev/MCPEToDiscord/releases/tag/1.4.1) - 2019-12-04
