@@ -5,7 +5,7 @@ Backend Developer currently working on [poggit.pmmp.io](https://github.com/JaxkD
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [DiscordBot v2.0.0](https://github.com/DiscordBot-PMMP/DiscordBot/releases/tag/2.0.0) - 2021-07-28
+* [DiscordBot v2.0.1](https://github.com/DiscordBot-PMMP/DiscordBot/releases/tag/2.0.1) - 2021-08-26
 * [Vehicles v0.1.13](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.13) - 2021-07-17
 * [ComposerShader v0.1.0](https://github.com/JaxkDev/ComposerShader/releases/tag/0.1.0) - 2021-04-19
 * [SizePlayerPMMP SizePlayer v2.0.0](https://github.com/YassenTrick/SizePlayerPMMP/releases/tag/2.0.0) - 2021-03-01
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `26-Aug-2021 (07:08:35) UTC+00`
+Last updated at `26-Aug-2021 (19:11:26) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
