@@ -5,7 +5,7 @@ Backend Developer currently working on [poggit.pmmp.io](https://github.com/JaxkD
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [DiscordBot v2.0.1](https://github.com/DiscordBot-PMMP/DiscordBot/releases/tag/2.0.1) - 2021-08-26
+* [DiscordBot v2.0.2](https://github.com/DiscordBot-PMMP/DiscordBot/releases/tag/2.0.2) - 2021-09-03
 * [Vehicles v0.1.13](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.13) - 2021-07-17
 * [ComposerShader v0.1.0](https://github.com/JaxkDev/ComposerShader/releases/tag/0.1.0) - 2021-04-19
 * [SizePlayerPMMP SizePlayer v2.0.0](https://github.com/YassenTrick/SizePlayerPMMP/releases/tag/2.0.0) - 2021-03-01
@@ -17,11 +17,11 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [Pocketmine-School](https://github.com/JaxkDev/Pocketmine-School) - 2021-08-30T09:15:24Z
 * [phpstan-src](https://github.com/JaxkDev/phpstan-src) - 2021-08-22T15:37:22Z
 * [poggit](https://github.com/JaxkDev/poggit) - 2021-08-05T12:46:07Z
 * [ComposerShader](https://github.com/JaxkDev/ComposerShader) - 2021-08-05T09:10:30Z
 * [DiscordPHP](https://github.com/JaxkDev/DiscordPHP) - 2021-07-23T11:05:37Z
+* [Bounty](https://github.com/JaxkDev/Bounty) - 2021-07-22T19:29:17Z
 <!-- recent_updates ends -->
 More [recently updated](https://github.com/JaxkDev?tab=repositories)
 </td><td valign="top" width="33%">
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `03-Sep-2021 (07:08:55) UTC+00`
+Last updated at `04-Sep-2021 (07:08:32) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
