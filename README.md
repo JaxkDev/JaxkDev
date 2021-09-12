@@ -17,7 +17,7 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [poggit](https://github.com/JaxkDev/poggit) - 2021-09-10T19:05:30Z
+* [poggit](https://github.com/JaxkDev/poggit) - 2021-09-12T16:42:48Z
 * [PoggitTestPlugin-1](https://github.com/JaxkDev/PoggitTestPlugin-1) - 2021-09-10T16:20:16Z
 * [ClikActions](https://github.com/JaxkDev/ClikActions) - 2021-09-04T14:38:52Z
 * [phpstan-src](https://github.com/JaxkDev/phpstan-src) - 2021-08-22T15:37:22Z
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `12-Sep-2021 (07:08:36) UTC+00`
+Last updated at `12-Sep-2021 (19:06:52) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
