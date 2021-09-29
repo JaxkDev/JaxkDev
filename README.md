@@ -17,11 +17,11 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [MyPlot](https://github.com/JaxkDev/MyPlot) - 2021-09-29T18:56:58Z
+* [BedcoreProtect](https://github.com/JaxkDev/BedcoreProtect) - 2021-09-29T18:52:38Z
+* [JukeBox-PoggitTest](https://github.com/JaxkDev/JukeBox-PoggitTest) - 2021-09-29T18:39:19Z
 * [poggit](https://github.com/JaxkDev/poggit) - 2021-09-22T17:28:24Z
 * [Vehicles](https://github.com/JaxkDev/Vehicles) - 2021-09-22T16:54:53Z
-* [PoggitTestPlugin-1](https://github.com/JaxkDev/PoggitTestPlugin-1) - 2021-09-10T16:20:16Z
-* [ClikActions](https://github.com/JaxkDev/ClikActions) - 2021-09-04T14:38:52Z
-* [phpstan-src](https://github.com/JaxkDev/phpstan-src) - 2021-08-22T15:37:22Z
 <!-- recent_updates ends -->
 More [recently updated](https://github.com/JaxkDev?tab=repositories)
 </td><td valign="top" width="33%">
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `29-Sep-2021 (07:08:53) UTC+00`
+Last updated at `29-Sep-2021 (19:07:16) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
