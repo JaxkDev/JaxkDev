@@ -3,10 +3,10 @@
 All <!-- release_count starts -->13<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[DiscordBot](https://github.com/DiscordBot-PMMP/DiscordBot)**: [v2.0.4](https://github.com/DiscordBot-PMMP/DiscordBot/releases/tag/2.0.4) - 2021-10-02
+<br>DiscordBot, A brand new plugin for pocketmine-mp.
 * **[Vehicles](https://github.com/JaxkDev/Vehicles)**: [v0.1.14](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.14) - 2021-09-22
 <br>[WIP | Pre-Release] A PocketMine-MP plugin that brings vehicles to your server !
-* **[DiscordBot](https://github.com/DiscordBot-PMMP/DiscordBot)**: [v2.0.3](https://github.com/DiscordBot-PMMP/DiscordBot/releases/tag/2.0.3) - 2021-09-04
-<br>DiscordBot, A brand new plugin for pocketmine-mp.
 * **[ComposerShader](https://github.com/JaxkDev/ComposerShader)**: [v0.1.0](https://github.com/JaxkDev/ComposerShader/releases/tag/0.1.0) - 2021-04-19
 <br>Shade/Inject composer dependencies into PocketMine-MP plugins.
 * **[SizePlayerPMMP](https://github.com/YassenTrick/SizePlayerPMMP)**: [SizePlayer v2.0.0](https://github.com/YassenTrick/SizePlayerPMMP/releases/tag/2.0.0) - 2021-03-01
