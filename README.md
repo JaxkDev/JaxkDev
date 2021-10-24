@@ -5,8 +5,8 @@ Backend Developer currently working on [poggit.pmmp.io](https://github.com/JaxkD
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [Vehicles v0.1.15](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.15) - 2021-10-24
 * [DiscordBot v2.0.4](https://github.com/DiscordBot-PMMP/DiscordBot/releases/tag/2.0.4) - 2021-10-02
-* [Vehicles v0.1.14](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.14) - 2021-09-22
 * [ComposerShader v0.1.0](https://github.com/JaxkDev/ComposerShader/releases/tag/0.1.0) - 2021-04-19
 * [SizePlayerPMMP SizePlayer v2.0.0](https://github.com/YassenTrick/SizePlayerPMMP/releases/tag/2.0.0) - 2021-03-01
 * [MediaBox-Converter v1.0.0](https://github.com/JaxkDev/MediaBox-Converter/releases/tag/1.0.0) - 2020-05-22
@@ -17,7 +17,7 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2021-10-19T11:56:37Z
+* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2021-10-24T12:22:51Z
 * [poggit](https://github.com/JaxkDev/poggit) - 2021-10-02T14:15:03Z
 * [BedcoreProtect](https://github.com/JaxkDev/BedcoreProtect) - 2021-09-30T17:07:39Z
 * [MyPlot](https://github.com/JaxkDev/MyPlot) - 2021-09-29T18:56:58Z
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `24-Oct-2021 (07:08:51) UTC+00`
+Last updated at `24-Oct-2021 (19:07:10) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
