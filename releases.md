@@ -3,7 +3,7 @@
 All <!-- release_count starts -->13<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[DiscordBot](https://github.com/DiscordBot-PMMP/DiscordBot)**: [v2.1.0](https://github.com/DiscordBot-PMMP/DiscordBot/releases/tag/2.1.0) - 2021-12-02
+* **[DiscordBot](https://github.com/DiscordBot-PMMP/DiscordBot)**: [v2.1.1](https://github.com/DiscordBot-PMMP/DiscordBot/releases/tag/2.1.1) - 2021-12-12
 <br>DiscordBot, A brand new plugin for pocketmine-mp.
 * **[Vehicles](https://github.com/JaxkDev/Vehicles)**: [v0.1.15](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.15) - 2021-10-24
 <br>[WIP | Pre-Release] A PocketMine-MP plugin that brings vehicles to your server !
