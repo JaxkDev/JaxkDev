@@ -17,8 +17,8 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2022-01-12T05:13:56Z
 * [poggit](https://github.com/JaxkDev/poggit) - 2021-12-19T13:16:50Z
-* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2021-11-12T14:15:01Z
 * [BedcoreProtect](https://github.com/JaxkDev/BedcoreProtect) - 2021-09-30T17:07:39Z
 * [MyPlot](https://github.com/JaxkDev/MyPlot) - 2021-09-29T18:56:58Z
 * [JukeBox-PoggitTest](https://github.com/JaxkDev/JukeBox-PoggitTest) - 2021-09-29T18:39:19Z
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `11-Jan-2022 (19:08:21) UTC+00`
+Last updated at `12-Jan-2022 (07:09:41) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
