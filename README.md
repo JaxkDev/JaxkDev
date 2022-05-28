@@ -17,11 +17,11 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [Bounty](https://github.com/JaxkDev/Bounty) - 2022-05-28T03:44:30Z
 * [koth](https://github.com/JaxkDev/koth) - 2022-05-20T03:36:40Z
 * [ClikActions](https://github.com/JaxkDev/ClikActions) - 2022-05-14T12:16:15Z
 * [Vehicles](https://github.com/JaxkDev/Vehicles) - 2022-04-05T18:17:33Z
 * [poggit](https://github.com/JaxkDev/poggit) - 2021-12-19T13:16:50Z
-* [BedcoreProtect](https://github.com/JaxkDev/BedcoreProtect) - 2021-09-30T17:07:39Z
 <!-- recent_updates ends -->
 More [recently updated](https://github.com/JaxkDev?tab=repositories)
 </td><td valign="top" width="33%">
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `27-May-2022 (19:08:58) UTC+00`
+Last updated at `28-May-2022 (07:10:32) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
