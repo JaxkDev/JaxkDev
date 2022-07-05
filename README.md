@@ -17,9 +17,9 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [koth](https://github.com/JaxkDev/koth) - 2022-07-04T21:34:50Z
 * [Specter](https://github.com/JaxkDev/Specter) - 2022-06-30T13:19:04Z
 * [Bounty](https://github.com/JaxkDev/Bounty) - 2022-05-28T03:44:30Z
-* [koth](https://github.com/JaxkDev/koth) - 2022-05-20T03:36:40Z
 * [ClikActions](https://github.com/JaxkDev/ClikActions) - 2022-05-14T12:16:15Z
 * [Vehicles](https://github.com/JaxkDev/Vehicles) - 2022-04-05T18:17:33Z
 <!-- recent_updates ends -->
@@ -34,7 +34,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated twice a day.
 <!-- updated_at starts -->
-Last updated at `04-Jul-2022 (19:09:39) UTC+00`
+Last updated at `05-Jul-2022 (07:10:25) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
