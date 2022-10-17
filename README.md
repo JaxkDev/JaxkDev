@@ -1,7 +1,7 @@
 # JaxkDev
-Backend Developer currently working on [poggit.pmmp.io](https://github.com/JaxkDev/poggit) and other private projects. [Follow @JaxkDev](https://twitter.com/jaxkdev) on twitter.
+19, Currently studying Computer Science at University of Lincoln.
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 ### Recent releases
 <!-- recent_releases starts -->
@@ -13,7 +13,7 @@ Backend Developer currently working on [poggit.pmmp.io](https://github.com/JaxkD
 * [koth-extensions KoTH-Signs v1.0.0-Beta1](https://github.com/JaxkDev/koth-extensions/releases/tag/KoTH-Signs%401.0.0-Beta1) - 2019-06-12
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.md)
-</td><td valign="top" width="35%">
+</td><td valign="top" width="50%">
 
 ### Recently updated
 <!-- recent_updates starts -->
@@ -24,15 +24,12 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 * [RedStar](https://github.com/JaxkDev/RedStar) - 2022-10-08T01:59:11Z
 <!-- recent_updates ends -->
 More [recently updated](https://github.com/JaxkDev?tab=repositories)
-</td><td valign="top" width="33%">
-
-### Notices
-* JukeBox pmmp plugin archived, [PR'd](https://github.com/pmmp/PocketMine-MP/pull/3742) jukebox & records into PM4.
-</td></tr></table>
+</td>
+</tr></table>
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=JaxkDev&theme=dark&show_icons=true&title_color=fff&text_color=fff&count_private=true)
 
-This page gets updated twice a day.
+This page gets updated daily.
 <!-- updated_at starts -->
 Last updated at `17-Oct-2022 (02:15:24) UTC+00`
 <!-- updated_at ends -->
