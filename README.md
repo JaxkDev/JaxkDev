@@ -5,11 +5,11 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [DiscordBot v2.0.1](https://github.com/DiscordBot-PMMP/DiscordBot/releases/tag/2.0.1) - 2021-08-26
 * [ComposerShader v0.1.0](https://github.com/JaxkDev/ComposerShader/releases/tag/0.1.0) - 2021-04-19
-* [Vehicles v0.1.4](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.4) - 2020-06-22
+* [DiscordBot Candidate A1](https://github.com/DiscordBot-PMMP/DiscordBot/releases/tag/1.0.0_A1) - 2020-11-19
 * [MediaBox-Converter v1.0.0](https://github.com/JaxkDev/MediaBox-Converter/releases/tag/1.0.0) - 2020-05-22
 * [MusicQuiz-C v1.0.0](https://github.com/JaxkDev/MusicQuiz-C/releases/tag/1.0.0) - 2019-10-28
+* [Vehicles + Objects v0.0.1](https://github.com/JaxkDev/Vehicles/releases/tag/0.0.1) - 2019-09-12
 * [koth-extensions KoTH-Signs v1.0.0-Beta1](https://github.com/JaxkDev/koth-extensions/releases/tag/KoTH-Signs%401.0.0-Beta1) - 2019-06-12
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.md)
@@ -31,7 +31,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated daily.
 <!-- updated_at starts -->
-Last updated at `23-Oct-2022 (23:08:50) UTC+00`
+Last updated at `24-Oct-2022 (23:09:16) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)

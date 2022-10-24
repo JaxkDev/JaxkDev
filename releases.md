@@ -3,16 +3,16 @@
 All <!-- release_count starts -->13<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[DiscordBot](https://github.com/DiscordBot-PMMP/DiscordBot)**: [v2.0.1](https://github.com/DiscordBot-PMMP/DiscordBot/releases/tag/2.0.1) - 2021-08-26
-<br>DiscordBot, A brand new plugin for pocketmine-mp.
 * **[ComposerShader](https://github.com/JaxkDev/ComposerShader)**: [v0.1.0](https://github.com/JaxkDev/ComposerShader/releases/tag/0.1.0) - 2021-04-19
 <br>Shade/Inject composer dependencies into PocketMine-MP plugins.
-* **[Vehicles](https://github.com/JaxkDev/Vehicles)**: [v0.1.4](https://github.com/JaxkDev/Vehicles/releases/tag/0.1.4) - 2020-06-22
-<br>[WIP | Pre-Release] A PocketMine-MP plugin that brings vehicles to your server !
+* **[DiscordBot](https://github.com/DiscordBot-PMMP/DiscordBot)**: [Candidate A1](https://github.com/DiscordBot-PMMP/DiscordBot/releases/tag/1.0.0_A1) - 2020-11-19
+<br>DiscordBot, A brand new plugin for pocketmine-mp.
 * **[MediaBox-Converter](https://github.com/JaxkDev/MediaBox-Converter)**: [v1.0.0](https://github.com/JaxkDev/MediaBox-Converter/releases/tag/1.0.0) - 2020-05-22
 <br>Convert the MediaBoxHD m3u8 media to mp4.
 * **[MusicQuiz-C](https://github.com/JaxkDev/MusicQuiz-C)**: [v1.0.0](https://github.com/JaxkDev/MusicQuiz-C/releases/tag/1.0.0) - 2019-10-28
 <br>A music quiz game written in C
+* **[Vehicles](https://github.com/JaxkDev/Vehicles)**: [+ Objects v0.0.1](https://github.com/JaxkDev/Vehicles/releases/tag/0.0.1) - 2019-09-12
+<br>[WIP | Pre-Release] A PocketMine-MP plugin that brings vehicles to your server !
 * **[koth-extensions](https://github.com/JaxkDev/koth-extensions)**: [KoTH-Signs v1.0.0-Beta1](https://github.com/JaxkDev/koth-extensions/releases/tag/KoTH-Signs%401.0.0-Beta1) - 2019-06-12
 <br>A repository full of plugins, that extend the functionality of KOTH core.
 * **[ClikActions](https://github.com/JaxkDev/ClikActions)**: [Clik'Actions v1.0.0-Beta1](https://github.com/JaxkDev/ClikActions/releases/tag/1.0.0-Beta1) - 2019-05-04
