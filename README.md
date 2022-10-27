@@ -1,5 +1,5 @@
 # JaxkDev
-19, Currently studying Computer Science at University of Lincoln.
+Studying Computer Science at University of Lincoln.
 
 <table><tr><td valign="top" width="50%">
 
