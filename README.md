@@ -19,11 +19,11 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [ClikActions](https://github.com/JaxkDev/ClikActions) - 2023-01-27T20:17:11Z
+* [BlockReward](https://github.com/JaxkDev/BlockReward) - 2023-01-27T20:17:03Z
+* [LuckyBlock](https://github.com/JaxkDev/LuckyBlock) - 2023-01-27T20:11:00Z
 * [koth](https://github.com/JaxkDev/koth) - 2022-12-20T16:51:17Z
 * [Vehicles](https://github.com/JaxkDev/Vehicles) - 2022-10-30T14:29:45Z
-* [LuckyBlock](https://github.com/JaxkDev/LuckyBlock) - 2022-10-17T02:00:26Z
-* [BlockReward](https://github.com/JaxkDev/BlockReward) - 2022-10-13T13:07:16Z
-* [ClikActions](https://github.com/JaxkDev/ClikActions) - 2022-10-13T11:44:39Z
 <!-- recent_updates ends -->
 More [recently updated](https://github.com/JaxkDev?tab=repositories)
 </td>
@@ -33,7 +33,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated daily.
 <!-- updated_at starts -->
-Last updated at `26-Jan-2023 (23:06:40) UTC+00`
+Last updated at `27-Jan-2023 (23:05:20) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
