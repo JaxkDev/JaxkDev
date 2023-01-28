@@ -19,11 +19,11 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [MCPEToDiscord](https://github.com/JaxkDev/MCPEToDiscord) - 2023-01-28T16:28:38Z
+* [JukeBox-pmmp](https://github.com/JaxkDev/JukeBox-pmmp) - 2023-01-28T13:27:23Z
 * [ClikActions](https://github.com/JaxkDev/ClikActions) - 2023-01-27T20:17:11Z
 * [BlockReward](https://github.com/JaxkDev/BlockReward) - 2023-01-27T20:17:03Z
 * [LuckyBlock](https://github.com/JaxkDev/LuckyBlock) - 2023-01-27T20:11:00Z
-* [koth](https://github.com/JaxkDev/koth) - 2022-12-20T16:51:17Z
-* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2022-10-30T14:29:45Z
 <!-- recent_updates ends -->
 More [recently updated](https://github.com/JaxkDev?tab=repositories)
 </td>
@@ -33,7 +33,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated daily.
 <!-- updated_at starts -->
-Last updated at `27-Jan-2023 (23:05:20) UTC+00`
+Last updated at `28-Jan-2023 (23:05:08) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
