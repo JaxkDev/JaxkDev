@@ -1,5 +1,5 @@
 # JaxkDev
-Studying Computer Science at University of Lincoln.
+Studying Computer Science at University.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/282819886198030336)](https://discord.com/users/282819886198030336)
 
