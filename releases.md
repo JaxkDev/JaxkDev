@@ -6,7 +6,7 @@ All <!-- release_count starts -->13<!-- release_count ends --> of my released pr
 * **[ComposerShader](https://github.com/JaxkDev/ComposerShader)**: [v0.1.0](https://github.com/JaxkDev/ComposerShader/releases/tag/0.1.0) - 2021-04-19
 <br>Shade/Inject composer dependencies into PocketMine-MP plugins.
 * **[DiscordBot](https://github.com/DiscordBot-PMMP/DiscordBot)**: [Candidate A1](https://github.com/DiscordBot-PMMP/DiscordBot/releases/tag/1.0.0_A1) - 2020-11-19
-<br>DiscordBot, A brand new plugin for pocketmine-mp.
+<br>DiscordBot, A brand new core API for pocketmine-mp.
 * **[MediaBox-Converter](https://github.com/JaxkDev/MediaBox-Converter)**: [v1.0.0](https://github.com/JaxkDev/MediaBox-Converter/releases/tag/1.0.0) - 2020-05-22
 <br>Convert the MediaBoxHD m3u8 media to mp4.
 * **[MusicQuiz-C](https://github.com/JaxkDev/MusicQuiz-C)**: [v1.0.0](https://github.com/JaxkDev/MusicQuiz-C/releases/tag/1.0.0) - 2019-10-28
