@@ -19,10 +19,10 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
+* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2023-09-09T16:58:54Z
 * [ComposerShader](https://github.com/JaxkDev/ComposerShader) - 2023-08-31T14:37:31Z
 * [LibSkin](https://github.com/JaxkDev/LibSkin) - 2023-07-14T06:14:28Z
 * [ext-pmmpthread](https://github.com/JaxkDev/ext-pmmpthread) - 2023-07-03T03:46:17Z
-* [Vehicles](https://github.com/JaxkDev/Vehicles) - 2023-06-05T16:52:07Z
 * [koth](https://github.com/JaxkDev/koth) - 2023-05-26T12:15:51Z
 <!-- recent_updates ends -->
 More [recently updated](https://github.com/JaxkDev?tab=repositories)
@@ -33,7 +33,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated daily.
 <!-- updated_at starts -->
-Last updated at `08-Sep-2023 (23:04:42) UTC+00`
+Last updated at `09-Sep-2023 (23:04:03) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
