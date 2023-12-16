@@ -19,7 +19,7 @@ More [recent releases](https://github.com/JaxkDev/JaxkDev/blob/master/releases.m
 
 ### Recently updated
 <!-- recent_updates starts -->
-* [SFML-Xcode-Arm](https://github.com/JaxkDev/SFML-Xcode-Arm) - 2023-12-07T12:02:10Z
+* [SFML-Xcode-Arm](https://github.com/JaxkDev/SFML-Xcode-Arm) - 2023-12-16T14:17:21Z
 * [HalpeCOCOAPI](https://github.com/JaxkDev/HalpeCOCOAPI) - 2023-12-05T10:34:13Z
 * [source-engine](https://github.com/JaxkDev/source-engine) - 2023-11-19T17:56:39Z
 * [xtool](https://github.com/JaxkDev/xtool) - 2023-11-14T15:22:51Z
@@ -33,7 +33,7 @@ More [recently updated](https://github.com/JaxkDev?tab=repositories)
 
 This page gets updated daily.
 <!-- updated_at starts -->
-Last updated at `15-Dec-2023 (23:06:33) UTC+00`
+Last updated at `16-Dec-2023 (23:06:06) UTC+00`
 <!-- updated_at ends -->
 
 ![Generate README](https://github.com/JaxkDev/JaxkDev/workflows/Generate%20README/badge.svg)
